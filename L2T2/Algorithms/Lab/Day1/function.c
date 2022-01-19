@@ -1,17 +1,18 @@
 #include <stdio.h>
 
-int multiplicationTwoNumber(int a, int b) {
-    int result = a*b;
+float multiplicationTwoNumber(int a, float b) {
+    float result = a*b;
     return result;
-}
-
+    }
+    
 int main() {
-
     printf("Hello BLC!\n");
     
-    int x, y, result;
-    scanf("%d %d", &x, &y);
+    int x;
+    float y, result;
+    scanf("%d %f", &x, &y);
     result = multiplicationTwoNumber(x,y);
-    printf("a X b is: %d", result);
+    
+    printf("m X k is: %f", result);
     return 0;
 }
