@@ -1,0 +1,2 @@
+Today's class allabout Pointer
+    start with memory address type
