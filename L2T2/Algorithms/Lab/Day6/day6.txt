@@ -1,0 +1,48 @@
+I missed the privious two lab due to online offline mixing
+privious two lab is part of week 4, which i missed 
+day6 lab is also a part of week 4. 
+lets see
+
+
+
+
+        Merge sort
+    
+    MergeSort( A , left , Right)
+        Step 1 :    if( left < Right )
+        Step 2 :        mid ← ( left + Right / 2 )
+        Step 3 :        MergeSort( A , left ,mid )
+        Step 4 :        MergeSort( A , mid+1, Right )
+        Step 5 :        Merge( A , left , Right , mid )
+
+    Merge( A, left , Right , mid )
+        Step 1 :    n1 ← mid – left + 1
+        Step 2 :    n2 ← Right – mid
+        Step 3 :    Create L[n1]
+        Step 4 :    Create R[n2]
+        Step 5 :    for i ← 0 to n1
+        Step 6 :        L[ i ] ← A[ left +i ]
+        Step 7 :    for j ← 0 to n2
+        Step 8 :        R[ j ] ← A[ mid+1+j ]
+        Step 9 :    i ← j ← 0
+        Step 10 :   k ← left
+        Step 11 :   while( i<n1 & j <n2 )
+        Step 12 :       if( L[ i ] =< R[ j ] )
+        Step 13 :           A[ k ] ← L[ i ]
+        Step 14 :           i ← i+1
+        Step 15 :       else
+        Step 16:            A[ k ] ← R[ j ]
+        Step 17 :           j ← j +1
+        Step 18 :       k ← k + 1
+        Step 19 :   while( i < n1 )
+        Step 20 :       A[ k ] ← L[ i ]
+        Step 21 :       i ← i+1
+        Step 22 :       k ← k + 1
+        Step 23 :   while( j < n2 )
+        Step 24 :       A[ k ] ← R[ j ]
+        Step 25 :       j ← j+1
+        Step 26 :       k ← k+1
+
+
+
+        marge short is so dump
