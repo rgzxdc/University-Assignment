@@ -1,0 +1,29 @@
+Q1. Cacar Dokan
+Consider you have an uncle who lives in your village. He has a departmental store. In a day, many people come to his shop and buy  different items. Most of the customers give him coins of 100, 500, 1000 BDT. So most of the time he has to give changes to the customers. However, most of the time, to give the change, he uses more coins than the optimal and at the end of the day, he faces problems to give change. Now you have to help your uncle on how to give the changes optimally to the customers where he can manage by giving only the minimum number of coins in the changes.
+
+
+Input: 
+Two integers K, C, where K denotes the amount of money given by the customer to the cashier and C denotes the amount of money he bought from this shope. N is the number of available coins. 
+
+Output: 
+Print minimum number of coins needed to give the change. And also print type and number of coins.
+
+Sample Input-1:
+500 460
+4
+2 5 20 30
+
+Sample Input-2:
+5690 5627
+5
+1 2 5 10 15
+
+Sample Output-1:
+2
+2 coins of 20
+
+Sample Output-2:
+6
+4 coins of 15
+1 coins of 2
+1 coins of 1
