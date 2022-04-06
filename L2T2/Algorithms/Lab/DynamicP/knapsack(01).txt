@@ -1,0 +1,12 @@
+Knapsack problem 0/1
+
+Dynamic_0/1_knapsack(S, s1, ... sn, v1, ... vn, n)
+1. for i from 0 to n
+2.      for s from 0 to S
+3.          if i=0 or s=0
+4.              then set V[i, s] = 0
+5.          else if s[i-1] ≤ s
+6.              then set V[i, s] = maximum of (v[i-1] + V[i-1, s-s[i-1]], V[i-1, s])
+7.          else
+8.              set V[i, s] = V[i-1, s]
+9.  Return V[n, S]
