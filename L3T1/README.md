@@ -9,11 +9,11 @@ Here are the Course List for this semester:
  2. Microprocessor, Embedded Systems and IoT Lab  
  3. [Object Oriented Programming II](/L3T1/OOP_II/)                  
  4. Object Oriented Programming II Lab                                                            
- 5. [Software Project IV](/L3T1/Software%20Project/)
+ 5. [Software Project IV](/L3T1/Software_Project/)
  6. Software Project V
  7. [Database Management System](/L3T1/DBMS/)
  8. Database Management System Lab
- 9. [Computer Networks](/L3T1/Computer%20Network/)
+ 9. [Computer Networks](/L3T1/Computer_Network/)
  10. Computer Networks Lab
  11. [Artificial Intelligence](/L3T1/AI/)
  12. Artificial Intelligence Lab
