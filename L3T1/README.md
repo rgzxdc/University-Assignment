@@ -4,7 +4,7 @@
 👋 For the first time we've got 6 month term for the semester. Tho the course lists increased by the factor of *almost* **two**. Cause we've got some other courese from previous semester that ended up with only two courses in two month!!
 
 Here are the Course List for this semester:
-```
+
  1. [Microprocessor, Embedded Systems and IoT](/L3T1/Microprocessor/)  
  2. Microprocessor, Embedded Systems and IoT Lab  
  3. [Object Oriented Programming II](/L3T1/OOP_II/)                  
@@ -18,6 +18,5 @@ Here are the Course List for this semester:
  11. [Artificial Intelligence](/L3T1/AI/)
  12. Artificial Intelligence Lab
 
-```
 :magnet: I never finished my work so this repo will alwasy be messy, I wish I could be just like **MESSI** not *messy* :scissors:
 `yo`
