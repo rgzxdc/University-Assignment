@@ -18,5 +18,5 @@ Here are the Course List for this semester:
  11. [Artificial Intelligence](/L3T1/AI/)
  12. Artificial Intelligence Lab
 
-    :magnet: I never finished my work so this repo will alwasy be messy, I wish I could be just like **MESSI** not *messy* :sad:
-    `yo`
+:magnet: I never finished my work so this repo will alwasy be messy, I wish I could be just like **MESSI** not *messy* :sad:
+`yo`
