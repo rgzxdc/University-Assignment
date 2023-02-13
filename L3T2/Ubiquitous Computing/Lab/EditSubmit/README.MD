@@ -1,7 +1,13 @@
-LAB 2 Ended With 
-Linear Layout
-Varticle Layout
-Edit Text Field
-Button Field
-On Click Function
-Toast Function and Others
+## LAB 2 Ended With
+
+- API
+- Linear Layout
+- Gravity
+- TextView
+- Match-Parent
+- Wrap-Content
+- Button
+- Toast Function
+- Edit Text
+- Orientation
+- FindViewByID 
