@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/ques2TextviewID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35sp"
+        android:gravity="center"
+        android:text="What is 18+8=?"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ques2RadioGroupID">
+        <RadioButton
+            android:id="@+id/ques2RadioBtn1ID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="26"
+            android:textSize="35sp" />
+
+        <RadioButton
+            android:id="@+id/ques2RadioBtn2ID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="22"
+            android:textSize="35sp" />
+
+        <RadioButton
+            android:id="@+id/ques2RadioBtn3ID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="25"
+            android:textSize="35sp" />
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/quesnextBtnID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="40sp"
+        android:text="submit"
+        android:onClick="submitFunction"
+        android:textSize="35sp" />
+
+</LinearLayout>
